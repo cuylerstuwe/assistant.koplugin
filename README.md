@@ -1,5 +1,12 @@
 # Assistant: AI Helper Plugin for KOReader
 
+> [!CAUTION]
+> Please be aware that this branch is not maintained, created as a copy of a [PR](https://github.com/omer-faruq/assistant.koplugin/pull/12).
+> I suggest you to try the [main branch](https://github.com/omer-faruq/assistant.koplugin) first, if it doesn't work for you then try this one. I'm currently using main branch with the latest release of KOReader (> 2025.04) on a Kobo device without a problem. 
+> This branch has some [known bugs](https://github.com/omer-faruq/assistant.koplugin/pull/12#issuecomment-2798937248) (for example, "ask" button is not working)
+> To download this branch do not use the relaese button , instead only use  the green "<> Code" button. 
+
+
 A powerful plugin that lets you interact with AI language models (Claude, GPT-4, Gemini, DeepSeek, Ollama etc.) while reading. Ask questions about text, get translations, summaries, explanations and more - all without leaving your book.
 
 <small>Originally forked from deleted fork of  [zeeyado](https://github.com/zeeyado)  of [AskGPT](https://github.com/drewbaumann/askgpt),then modified using WindSurf.</small>
